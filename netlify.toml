@@ -1,0 +1,4 @@
+[(redirects)]
+from = "/*"
+to = */image_links.html"
+status = 200
