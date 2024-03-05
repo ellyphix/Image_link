@@ -1,4 +1,4 @@
 [(redirects)]
 from = "/*"
-to = */image_links.html"
+to = */index.html"
 status = 200
